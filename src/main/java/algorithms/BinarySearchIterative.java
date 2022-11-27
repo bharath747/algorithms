@@ -1,4 +1,4 @@
-package src.main.java;
+package algorithms;
 
 // Java implementation of iterative Binary Search
 class BinarySearchIterative {
